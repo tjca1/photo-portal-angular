@@ -1,2 +1,2 @@
 # photo-portal-angular
-Portal de fotos deito com Angular 15
+Portal de fotos com Angular 15
