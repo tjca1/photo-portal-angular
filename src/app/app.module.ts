@@ -8,6 +8,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { AboutComponent } from './components/pages/about/about.component';
 import { HomeComponent } from './components/pages/home/home.component';
 import { NewPhotoComponent } from './components/pages/new-photo/new-photo.component';
+import { PhotoFormComponent } from './components/photo-form/photo-form.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { NewPhotoComponent } from './components/pages/new-photo/new-photo.compon
     FooterComponent,
     AboutComponent,
     HomeComponent,
-    NewPhotoComponent
+    NewPhotoComponent,
+    PhotoFormComponent
   ],
   imports: [
     BrowserModule,

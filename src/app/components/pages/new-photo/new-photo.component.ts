@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./new-photo.component.css']
 })
 export class NewPhotoComponent {
+  btnText = "Adicionar"
 
 }
